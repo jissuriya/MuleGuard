@@ -217,8 +217,8 @@ The prototype includes a deterministic synthetic dataset in `data/transactions.c
 ## 👥 Team
 - **Team Name:** [MEGATHON Team Name]
 - **Members:**
-  - [Member 1 Name]
-  - [Member 2 Name]
-  - [Member 3 Name]
-  - [Member 4 Name]
-- **College / Institution:** [Institution Name]
+  - Jissuriya D
+  - Harshini S
+  - Hemapriya PS
+    
+- **College / Institution: knowledge Institute of Technology
