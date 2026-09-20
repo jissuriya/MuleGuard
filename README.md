@@ -221,4 +221,4 @@ The prototype includes a deterministic synthetic dataset in `data/transactions.c
   - Harshini S
   - Hemapriya PS
     
-- **College / Institution: knowledge Institute of Technology
+- College / Institution: knowledge Institute of Technology
